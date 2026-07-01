@@ -49,7 +49,7 @@ Complete Exercise 4 in the space below:
 */
 
 const favFood = foods.indexOf("pizza")
-console.log('Exercise 4 result:', favFood);
+console.log('Exercise 4 result:', foods[favFood]);
 
 
 /*
